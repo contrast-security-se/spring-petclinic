@@ -5,7 +5,7 @@ on:
     branches: [ sqli-demo ]
   pull_request:
     branches: [ sqli-demo ]
-
+ 
 jobs:
   build-and-analyze:
     name: Test and Analyze
